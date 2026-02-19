@@ -1,6 +1,6 @@
 Find Middle Letters
 Simple Python utility to find the middle letter(s) of a word.
-
+ВНЁС ИЗМЕНЕНИЯ
 Overview
 This script finds the middle character(s) in a given word:
 
